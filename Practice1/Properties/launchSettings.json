@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Practice1": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\file.txt.txt\" \"hello\""
+    }
+  }
+}
